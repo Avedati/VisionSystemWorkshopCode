@@ -1,0 +1,10 @@
+setup camera
+
+while our program is running {
+
+	get a picture from the camera
+
+	process that picture
+
+	display that picture (optional)
+}
